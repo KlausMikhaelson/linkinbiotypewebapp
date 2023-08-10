@@ -10,8 +10,8 @@ const Navbar = () => {
             </ul>
             <ul style={{display: "flex", padding: "0px", margin: "px",columnGap: "15px"}}>
                 <li style={{listStyle: "none"}}><a href='https://github.com/KlausMikhaelson' target='_blank' style={{textDecoration: "none", color: "black"}}>GitHub</a></li>
-                <li style={{listStyle: "none", fontWeight: "bold"}}><a href='https://twitter.com/___klaus_31452' target='_blank' style={{textDecoration: "none", color: "black"}}>X</a></li>
-                <li style={{listStyle: "none"}}><a href='https://linkedIn.com/Satyamsingh2003' target='_blank' style={{textDecoration: "none", color: "black"}}>LinkedIn</a></li>
+                <li style={{listStyle: "none", fontWeight: "bold"}}><a href='https://twitter.com/__Klaus_31452' target='_blank' style={{textDecoration: "none", color: "black"}}>X</a></li>
+                <li style={{listStyle: "none"}}><a href='https://www.linkedin.com/in/satyamsingh2003/' target='_blank' style={{textDecoration: "none", color: "black"}}>LinkedIn</a></li>
             </ul>
         </div>
     </div>

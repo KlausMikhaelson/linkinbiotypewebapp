@@ -12,8 +12,8 @@ const Footer = () => {
         fontFamily: "cursive",
       }}
     >
-      <a target="_blank" style={{textDecoration: "none", color: "black", fontFamily: "cursive"}} href="https://resume.com">Resume</a>
-      <a target="_blank" style={{textDecoration: "none", color: "black", fontFamily: "cursive"}} href="https://calendly.com">Calendly</a>
+      <a target="_blank" style={{textDecoration: "none", color: "black", fontFamily: "cursive"}} href="https://drive.google.com/file/d/1weKlmHTq5_7qo6S2qLtKuho1PgcClAxD/view?usp=sharing">Resume</a>
+      <a target="_blank" style={{textDecoration: "none", color: "black", fontFamily: "cursive"}} href="https://calendly.com/klausss/30min">Calendly</a>
     </div>
   );
 };
