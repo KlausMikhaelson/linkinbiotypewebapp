@@ -1,0 +1,14 @@
+/* tailwind.css (or your custom CSS file) */
+@font-face {
+  font-family: "Green Brooks";
+  src: url("./GreenBrooks.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Brulia";
+  src: url("./Brulia-Display.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}

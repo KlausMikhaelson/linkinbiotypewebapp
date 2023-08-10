@@ -1,0 +1,6 @@
+img:hover {
+  transform: scale3d(1.4, 1.4, 1.4);
+  transition: 1000ms -100ms;
+  cursor: pointer;
+  rotate: 7200deg;
+}

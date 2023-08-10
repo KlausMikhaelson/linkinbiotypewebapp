@@ -1,0 +1,15 @@
+a & li:hover {
+  background-color: rgb(255, 237, 214);
+  color: rgb(108, 108, 108);
+}
+
+li {
+    font-family: cursive;
+    cursor: pointer;
+    padding: 4px 8px;
+    border-radius: 10px;
+}
+
+* {
+    background-color: rgb(221, 184, 255);
+}

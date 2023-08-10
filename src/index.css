@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "./fonts/fonts.css";
+
+
+* {
+    font-family: "Green Brooks";
+}
